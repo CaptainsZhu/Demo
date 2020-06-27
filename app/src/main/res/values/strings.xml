@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cool Code</string>
+    <string name="arouter_demo">ARouter demo</string>
+    <string name="demo_start_activity_for_result">Demo start activity for result</string>
+    <string name="arouter_demo_screen">ARouter demo screen</string>
+    <string name="back">Exit current screen</string>
+    <string name="demo_arouter_navigation_callback">Demo navigation callback</string>
+    <string name="demo_arouter_pass_params">Demo pass params</string>
+    <string name="demo_arouter_add_frag">Demo add fragment</string>
+    <string name="demo_arouter_jump_via_uri">Demo jump via uri </string>
+</resources>

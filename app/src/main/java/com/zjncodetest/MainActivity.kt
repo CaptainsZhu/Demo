@@ -16,10 +16,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initView() {
-        val tvARouterDemo = findViewById<TextView>(R.id.tv_arouter_demo)
-        tvARouterDemo.setOnClickListener {
+        findViewById<TextView>(R.id.tv_arouter_demo).setOnClickListener {
             ARouter.getInstance().build(PATH_AROUTER_MAIN).navigation()
         }
-
     }
 }
